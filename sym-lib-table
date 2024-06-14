@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BZO-USB-MODULE-V1-(external-version)-rescue")(type Legacy)(uri "C:/Users/adm/Documents/BLITZUINO/BZO USB MODULE V1 (external version)/BZO USB MODULE V1 (external version)-rescue.lib")(options "")(descr ""))
+  (lib (name SIMULATEUR-2x6-rescue)(type Legacy)(uri "${KIPRJMOD}/SIMULATEUR 2x6-rescue.lib")(options "")(descr ""))
+)
